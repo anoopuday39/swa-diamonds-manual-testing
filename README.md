@@ -1,0 +1,1 @@
+# swa-diamonds-manual-testing
